@@ -5,5 +5,7 @@ Desafio final do curso de programação do zero na Cubos Academy
 
 
 Link dos respositórios:
-https://github.com/VhHonorato/back-end-sistema-de-cobranca---equipe-localhost071
-https://github.com/pedrogssouza/desafio-front
+
+back: https://github.com/VhHonorato/back-end-sistema-de-cobranca---equipe-localhost071
+front: https://github.com/pedrogssouza/desafio-front
+deploy: https://front-localhost071.netlify.app/login
